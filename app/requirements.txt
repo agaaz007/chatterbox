@@ -1,0 +1,7 @@
+git+https://github.com/davidbrowne17/chatterbox-streaming.git
+torch
+torchaudio
+chatterbox-tts
+Flask
+sagemaker-inference
+gunicorn
